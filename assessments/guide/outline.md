@@ -80,7 +80,7 @@ compromise the “master” Flibble server, they may read, write, or delete any
 content stored on any system)
 
 ## Secure development practices
-* Development pipeline.  A description of the testing and review processes
+* Development pipeline.  A description of the testing and security review processes
 that the software undergoes as it is developed and built.
 * Communication Channels. Reference where you document how to reach your
 team or describe in corresponding section.
@@ -102,7 +102,7 @@ the CNCF could assist with that would increase security of the ecosystem.
 
 ## Appendix
 
-* Known Issues over time. List or sumarize statistics of past vulerabilities
+* Known Issues over time. List or sumarize statistics of past vulnerabilities
 with links. If none have been reported, provide data, if any, about your
 track record in catching issues in code review or automated testing.
 * CII Best Practices. A brief discussion of where the project is at with
@@ -110,5 +110,5 @@ respect to CII best practices and what it would need to achieve the badge.
 * Case Studies. Provide context for reviewers by detailing 2-3 scenarios of
 real-world use cases.
 * Related Projects / Vendors. Reflect on times prospective users have asked
-about the diffeerences between your project and projectX. Reviewers will have
+about the differences between your project and projectX. Reviewers will have
 the same questions.
